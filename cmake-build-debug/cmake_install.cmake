@@ -1,4 +1,4 @@
-# Install script for directory: /home/aykull/CLionProjects/server
+# Install script for directory: /home/viviana/CLionProjects/ScrabbleServer
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/aykull/CLionProjects/server/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/viviana/CLionProjects/ScrabbleServer/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
